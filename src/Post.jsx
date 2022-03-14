@@ -1,6 +1,6 @@
+import PostTopo from "./PostTopo";
 import PostConteudo from "./PostConteudo";
 import PostFundo from "./PostFundo";
-import PostTopo from "./PostTopo";
 
 export default function Post({userImg, userName, contentImg, likeImg, likeText1, likeText2}) {
     return (

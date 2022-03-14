@@ -1,5 +1,5 @@
-import Sugestao from "./Sugestao";
 import Titulo from "./Titulo";
+import Sugestao from "./Sugestao";
 
 export default function Sugestoes() {
     const sugestoes = [

@@ -1,7 +1,7 @@
-import Copyright from "./Copyright";
-import Links from "./Links";
-import Sugestoes from "./Sugestoes";
 import Usuario from "./Usuario";
+import Sugestoes from "./Sugestoes";
+import Links from "./Links";
+import Copyright from "./Copyright";
 
 export default function Sidebar() {
     const usuarios = [{

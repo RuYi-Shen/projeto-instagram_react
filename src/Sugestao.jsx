@@ -1,9 +1,9 @@
-import Perfil from "./Perfil";
+import SugestaoUser from "./SugestaoUser";
 
-export default function Sugestao(props) {
+export default function Sugestao({src, nome, razao}) {
     return (
     <div class="sugestao">
-        <Perfil src={props.src} nome={props.nome} razao={props.razao}/>
+        <SugestaoUser src={src} nome={nome} razao={razao}/>
 
         <div class="seguir">Seguir</div>
     </div>

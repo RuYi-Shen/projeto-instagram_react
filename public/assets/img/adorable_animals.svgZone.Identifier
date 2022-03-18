@@ -1,3 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-HostUrl=https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e086d96-0af0-4429-a18d-51effc7d4a81/instagram.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220311%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220311T200603Z&X-Amz-Expires=86400&X-Amz-Signature=f4785482553bee4bee978050e4faacf818f651a126971bce9404d25c950b5662&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22instagram.zip%22&x-id=GetObject
